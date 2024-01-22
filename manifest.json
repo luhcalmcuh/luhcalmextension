@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
-  "name": "Hello Extensions",
+  "name": "Luh Extension",
   "description": "Base Level Extension",
-  "version": "1.0",
+  "version": "0.1",
   "action": {
-    "default_popup": "hello.html",
+    "default_popup": "cuh.html",
     "default_icon": "hello_extensions.png"
   }
 }
